@@ -1,0 +1,267 @@
+.aspa{
+    color: #fffcfc;
+    height: 7cm;
+    width: 7cm;
+    border-width: 10cm;
+    border-radius: 50%;
+    text-align: left;
+    background-color: rgb(34, 168, 230);
+
+}
+html:has(.lo){
+    
+    background-image:url("Image\ HTML/Screenshot_1.png");
+    background-size: cover;
+    backdrop-filter: blur(50%);
+}
+.lo{
+}
+.pikachu{
+    text-align: center;
+    font-size: 40px;
+}
+.hang{
+    background-color: #41b1d6;
+    color: white;
+    padding: 10PX 10PX;
+    text-align: center;
+    font-size: 16PX;
+    margin: 10PX;
+    border: none;
+    border-radius: 4PX;
+    cursor: pointer;
+    transition: backgroung-color 0.3s ease;
+}
+.hang:hover{
+    background-color: #005f73;
+}
+.k{
+    color: white;
+    font-size: x-large;
+    font-family:'cursive';
+    font-weight: 100;
+    text-align: center;
+    background-image: url("Image\ HTML/Screenshot_3.png/to/your/image.png");
+    background-size: cover; /* This makes the image cover the entire screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+}
+.mv{
+    font-size:x-large ;
+    font-weight: bold;
+    
+}
+.tahi div{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.tahi img{
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+}
+.km{
+    color: blue; text-decoration:underline;
+}
+.se{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration:double;
+    text-align: center;
+    color: rgb(34, 12, 235);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.go{
+    background-image:-moz-element(Image HTML\i.png)
+    background-size: cover; 
+    background-position: center; 
+}
+.pv{
+    color: rgb(133, 16, 16);
+    background-color: aquamarine;
+    text-align: center;font-size: xx-large; font-family: cursive; text-align: center;
+}
+.bv{
+    color: rgb(8, 8, 8);
+    background-color: aquamarine;
+    box-sizing: initial;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: x-large;width: 1200px;                
+    height: 300px;               
+    padding: 40px;               
+    border: 5px solid #25d1f0;     
+    border-radius: 4ch;
+       
+}
+.we{
+    background-image: -o-linear-gradient();
+}
+.ho{
+    color:white;
+    background-color: blue;
+    text-align: center;
+    
+}
+.ho1{
+    color: white;
+    margin: 45px;
+    font-size: 25px;
+}
+.ho2{
+    color: white;
+    margin: 30px;
+    font-size: 25px;
+}
+.arigato{
+    background-color: aquamarine;
+    
+}
+.atashi{
+    text-align: center;
+}
+#amuko{
+    font-size: 40px;
+}
+.watt{
+    text-align: center;
+    color: blue;
+}
+.what{
+    font-size: 60px;
+}
+.there{
+    text-align: center;
+    color: blue;
+}
+.here{
+    font-size: 60px;
+
+}
+.bt{ 
+    color: blue;
+    background-color: snow;
+    font-size:medium
+}
+.f{
+    color: blue;
+    background-color: snow;
+    font-size: x-large;
+    text-align: right;
+
+}
+
+.o{
+    text-align: center;
+    display: block;
+}
+.as{
+    text-align: center;
+    color: rgb(18, 198, 222);
+}
+.butt{
+    text-align: center;
+
+}
+.cla{
+    border-radius: 50%;
+    height: 11ch;
+}
+
+.jeon{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.kim{
+    
+    text-align: center;
+    
+}
+.tea{
+    height: 300px;
+    width: 500px;
+}
+
+.vm {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.image1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.image2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.image3{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.afri{
+    height: 300px;
+    width: 300px;
+}
+.jannat{
+    text-align: center;
+    font-size: 40px;
+}
+#ti{
+    background-image:url("Image\ HTML/i.png");
+    background-size: cover;
+    backdrop-filter: blur(50%);
+    height: 1000px;
+    width: 2050px;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    color: #5b2f03;
+    font-weight: bold;
+}
+.mamu{
+    background-image:url("Image\ HTML/Screenshot_3.png");
+    background-size: cover;
+    backdrop-filter: blur(50%);
+    color: wheat;
+}
+.oscar{
+    color: gold;
+}
+.jarif{
+    background-color: aquamarine;
+}
+#messi{
+    font-size: 65px;
+    color: #000f42;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#amia{
+    text-align: center;
+    font-size: 30px;
+
+}
+#mia{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#ammu{
+    text-align: left;
+    font-size: 30px;
+}
+#alt{
+    font-size: 45px;
+    color: #000f42;
+    font-family: Arial, Helvetica, sans-serif;
+}
